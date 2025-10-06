@@ -11,4 +11,3 @@ Console.WriteLine("Smartphone Iphone");
 Smartphone iphone = new Iphone("111222", "Iphone 12", "2222222", 128);
 iphone.Ligar();
 iphone.InstalarAplicativo("Telegram");
-// TODO: Realizar os testes com as classes Nokia e Iphone
